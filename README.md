@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# 🌸 shecti
+# 🌸 lenik 🌸
 
 ### *Sweeping the world to make it as bright as her smile.*
 
