@@ -10,7 +10,7 @@
 ### *Sweeping the world to make it as bright as her smile.*
 
 [![Blog](https://img.shields.io/badge/Blog-lenik.bodz.net-pink?style=for-the-badge&logo=wordpress)](http://lenik.bodz.net)
-[![Twitter](https://img.shields.io/badge/Twitter-@lenik-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/lenik)
+[![Twitter](https://img.shields.io/badge/Twitter-@_lenik-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/_lenik)
 [![Mastodon](https://img.shields.io/badge/Mastodon-@lenik-6364FF?style=for-the-badge&logo=mastodon)](https://fosstodon.org/@lenik)
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-pink?style=for-the-badge&logo=mail.ru)](mailto:lenik-at-github@bodz.net)
 
